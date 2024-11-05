@@ -1,3 +1,4 @@
 # Evaroproject10
-This is my first git projectory
+This is my first git respository
+<br>
 Author - Evaro Fernandes
